@@ -1,0 +1,16 @@
+.tbas-animation-screenshots {
+    -js-display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.tbas-screenshot {
+    display: none;
+}
+
+.tbas-screenshot img {
+    width: 300px;
+}
